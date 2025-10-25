@@ -9,4 +9,4 @@ This is the **Extended** version of the project scaffold. It contains:
 - GitHub Actions CI workflow (smoke tests)
 - Example data, configs and a Jupyter notebook for metadata exploration
 
-**IMPORTANT:** Replace credentials in config files with secrets stored in your environment or secrets manager. Do NOT commit real secrets to GitHub.
+
