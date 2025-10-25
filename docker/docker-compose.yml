@@ -1,0 +1,8 @@
+version: '3'
+services:
+  publisher:
+    build: ./
+    container_name: data_publisher
+    volumes:
+      - ./:/app
+    command: python src/main.py

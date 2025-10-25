@@ -1,0 +1,7 @@
+{
+  "aws_access_key_id": "YOUR_AWS_ACCESS_KEY",
+  "aws_secret_access_key": "YOUR_AWS_SECRET_KEY",
+  "region": "us-east-1",
+  "s3_raw_bucket": "myorg-data-raw-dev",
+  "s3_curated_bucket": "myorg-data-curated-dev"
+}

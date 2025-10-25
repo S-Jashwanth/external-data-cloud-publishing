@@ -1,0 +1,9 @@
+{
+  "user": "YOUR_SF_USER",
+  "password": "YOUR_SF_PASS",
+  "account": "YOUR_ACCOUNT",
+  "warehouse": "COMPUTE_WH",
+  "database": "ANALYTICS_DB",
+  "schema": "PUBLIC",
+  "role": "SYSADMIN"
+}
